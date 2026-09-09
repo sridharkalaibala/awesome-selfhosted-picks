@@ -103,7 +103,7 @@ E-commerce, invoicing, and billing.
 - [Invoicely](https://github.com/legions-developer/invoicely) — Simple modern invoice generator.
 - [Medusa](https://github.com/medusajs/medusa) — Open-source Shopify alternative for ecommerce.
 - [Paymenter](https://github.com/Paymenter/Paymenter) — Open-source billing platform for hosting companies.
-- [Posnic](https://github.com/Posnic/POS) — Local POS and billing software for retail shops and restaurants.
+- [Posnic](https://github.com/Posnic/POS) — Offline-first open source POS and billing software. ([Website](https://posnic.io/))
 
 ## Security & Privacy
 
